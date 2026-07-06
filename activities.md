@@ -23,7 +23,7 @@ author_profile: false
 ## Organizational Skills
 ***  
 **Technical Coordinator – BR41N.IO Hackathon, BCI & Neurotechnology Spring School 2026**  
-Luleå University of Technology & WASP Lighthouse | April 2026, 🔗 [Event Link]()  
+Luleå University of Technology & WASP Lighthouse | April 2026
 
 **Student Coordinator – AI for Human Brain-Computer Interaction Workshop**  
 Department of Electronics and Communication Engineering, IIT Roorkee (SERB-DST Sponsored) | March 2024, 🔗 [Event Link](https://tharuniitk.github.io/workshops)
