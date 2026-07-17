@@ -88,6 +88,7 @@ author_profile: false
 ***  
 - Elsevier Journal: **Biomedical Signal Processing and Control *(BSPC, Q1)***
 - Elsevier Journal: **Neural Networks *(NN, Q1)***
+- Frontiers: **Frontiers in Neuroscience *(FN, Q2)***
 - Conference 2025: **International Joint Conference on Neural Networks *(IJCNN)***
   
 
